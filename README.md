@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Nethmini</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **.net**
+- 🌱 I’m currently learning **Go and .net**
 
 - 👨‍💻 All of my projects are available at [https://my-react-portfolio-dftt2i3gw-nethmini-sandunikas-projects.vercel.app/](https://my-react-portfolio-dftt2i3gw-nethmini-sandunikas-projects.vercel.app/)
 
